@@ -1,19 +1,19 @@
-![logo](https://github.com/prem-kumar-sharma/prem-kumar-sharma/blob/main/Black%20Illustration%20Digital%20Marketing%20Linkedin%20Article%20Cover%20Image.png)
-<h1 align="center">Hi 👋, I'm Prem Kumar</h1>
-<h3 align="center">Data Science Student at IIT Madras</h3>
+![logo]()
+<h1 align="center">Hi 👋, I'm Amit  Kumar</h1>
+<h3 align="center">Data Science Student at IIT Madra and AI & ML Enthausist</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-kumar-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="prem-kumar-sharma" /> </p>
 
-- 📫 How to reach me **viratprem4321@gmail.com**
+- 📫 How to reach me **amitrajkumar396@gmail.com**
 
 - ⚡ Fun fact **Not Funny 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prem-kumar-a499b1201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/prem.kr_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem_kumar_sharma__" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amit-kumar83/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Kumar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/a_m.it83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem_kumar_sharma__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@iitm_techwhiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iitm_techwhiz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/viratprem4321?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@viratprem4321" height="30" width="40" /></a>
 </p>
@@ -67,8 +67,8 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prem-kumar-sharma&show_icons=true&locale=en&layout=compact" alt="prem-kumar-sharma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitaiml83&show_icons=true&locale=en&layout=compact" alt="amit kumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prem-kumar-sharma&show_icons=true&locale=en" alt="prem-kumar-sharma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitaiml83&show_icons=true&locale=en" alt="amit kumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-kumar-sharma&" alt="prem-kumar-sharma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitaiml83&" alt="prem-kumar-sharma" /></p>
