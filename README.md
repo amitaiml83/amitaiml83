@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/amit-kumar83/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Kumar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/a_m.it83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem_kumar_sharma__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@iitm_techwhiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iitm_techwhiz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/viratprem4321?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@viratprem4321" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/21f3002445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@amitkumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
