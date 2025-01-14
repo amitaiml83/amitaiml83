@@ -71,4 +71,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitaiml83&show_icons=true&locale=en" alt="amit kumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitaiml83&" alt="prem-kumar-sharma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitaiml83&" alt="amitaiml83" /></p>
