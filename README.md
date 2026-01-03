@@ -43,22 +43,6 @@ class AmitKumar:
         ]
 ```
 
----
-
-## 🏆 Competition Highlights
-
-<div align="center">
-
-| 🏅 Rank | 🎯 Competition | 📊 Score | 👥 Participants |
-|---------|---------------|----------|-----------------|
-| **10th** | Multilingual NLP Sentiment Analysis | F1: 0.97435 | 13 Languages |
-| **15th** | IndicTTS Deepfake Detection | AUC: 0.99567 | 239 Teams |
-| **29th** | Food Rating Prediction | Top Performance | High Competition |
-
-</div>
-
----
-
 ## 💼 Professional Journey
 
 <details open>
@@ -85,53 +69,102 @@ class AmitKumar:
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
+
+</div>
 
 <div align="center">
 
 ### 🤖 AI/ML & Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
 
 ### 🧠 GenAI & LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-8B5CF6?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/GPT--4-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square"/>
+</p>
 
 ### ☁️ Cloud & MLOps
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
+</p>
 
 ### 🗄️ Databases & Vector Stores
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/>
+<img src="https://img.shields.io/badge/Weaviate-00C853?style=flat-square"/>
+</p>
 
-### 💻 Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🌐 Web Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Development & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,flask,vue,js,html,css" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
 
 </div>
 
 ---
+<div align="center">
+
+## 🏆 Competition Hall of Fame
+
+<img src="https://media.giphy.com/media/W5BWeZ3qG6W5ygXQY8/giphy.gif" width="60">
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/RANK-10th-gold?style=for-the-badge&labelColor=black"/>
+<h3>🌐 Multilingual NLP</h3>
+<b>Sentiment Analysis</b><br>
+<code>F1 Score: 0.97435</code><br>
+13 Indian Languages<br>
+<img src="https://img.shields.io/badge/LLaMA_3.1-Fine--tuned-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/LoRA-PEFT-green?style=flat-square"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/RANK-15th-silver?style=for-the-badge&labelColor=black"/>
+<h3>🎤 Deepfake Detection</h3>
+<b>IndicTTS Challenge</b><br>
+<code>AUC: 0.99567</code><br>
+239 Participants<br>
+<img src="https://img.shields.io/badge/CNN-Audio-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mel_Spectrograms-orange?style=flat-square"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/RANK-29th-cd7f32?style=for-the-badge&labelColor=black"/>
+<h3>🍔 Food Rating</h3>
+<b>Prediction Challenge</b><br>
+<code>Top Performance</code><br>
+High Competition<br>
+<img src="https://img.shields.io/badge/XGBoost-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ensemble-yellow?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+---
+
 
 ## 🎯 Featured Projects
 
