@@ -22,7 +22,7 @@ class AmitKumar:
     def __init__(self):
         self.name = "Amit Kumar"
         self.role = "Data Scientist & AI/ML Engineer"
-        self.company = "Montra Electric (Murugappa Group)"
+        self.company = "Jman Group"
         self.education = ["IIT Madras - BS Data Science", "SLIET - B.Tech Food Engineering"]
         self.location = "Chennai, Tamil Nadu, India"
         
