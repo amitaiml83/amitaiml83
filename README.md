@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Amit Kumar
 
-### 🤖 Data Scientist @ Montra Electric | AI/ML Engineer | IoT Data Scientist
+### 🤖 Data Scientist @ Jman Group | AI/ML Engineer | IoT Data Scientist
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
